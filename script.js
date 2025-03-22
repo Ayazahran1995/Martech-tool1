@@ -164,4 +164,4 @@ window.addEventListener('click', (e) => {
 });
 
 // Initialize the calendar
-initCalendar();
+initCalendar(); 
